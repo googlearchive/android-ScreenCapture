@@ -20,8 +20,8 @@ Once you get a MediaProjection, use [createVirtualDisplay][4] and bind it to a S
 
 [1]: https://developer.android.com/reference/android/media/projection/MediaProjection.html
 [2]: https://developer.android.com/reference/android/media/projection/MediaProjectionManager.html#createScreenCaptureIntent()
-[3]: https://developer.android.com/reference/android/media/projection/MediaProjectionManager.html#getMediaProjection(int, android.content.Intent)
-[4]: https://developer.android.com/reference/android/media/projection/MediaProjection.html#createVirtualDisplay(java.lang.String, int, int, int, int, android.view.Surface, android.hardware.display.VirtualDisplay.Callback, android.os.Handler)
+[3]: https://developer.android.com/reference/android/media/projection/MediaProjectionManager.html#getMediaProjection%28int%2C+android.content.Intent%29
+[4]: https://developer.android.com/reference/android/media/projection/MediaProjection.html#createVirtualDisplay%28java.lang.String%2C+int%2C+int%2C+int%2C+int%2C+android.view.Surface%2C+android.hardware.display.VirtualDisplay.Callback%2C+android.os.Handler%29
 
 Pre-requisites
 --------------
